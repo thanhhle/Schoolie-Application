@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "400255550041",
+    "firebase_url": "https://schoolie-e2efa.firebaseio.com",
+    "project_id": "schoolie-e2efa",
+    "storage_bucket": "schoolie-e2efa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400255550041:android:150e3d004c398a2f94a748",
+        "android_client_info": {
+          "package_name": "com.school.schoolie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400255550041-u9hj26egk9h3pvear0hn6akfgvo9lin1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBtPVbNTg-Tosfj7fuvAL0f24UGbJEaK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400255550041-u9hj26egk9h3pvear0hn6akfgvo9lin1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
