@@ -1,11 +1,12 @@
 apply plugin: 'com.android.application'
+apply plugin: 'com.google.gms.google-services'
 
 android {
     compileSdkVersion 30
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "com.school.schoolie"
+        applicationId "thanhle.schoolie"
         minSdkVersion 16
         targetSdkVersion 29
         versionCode 1
@@ -62,7 +63,7 @@ dependencies {
 
     // these lines were added for firebase
     // >>>>>> NOTE: bill of material (BOM) has to be keep up to date with new release version
-    implementation platform('com.google.firebase:firebase-bom:25.8.0')      //bill of material allows version control on every libraries include (the bottom two)
+    implementation platform('com.google.firebase:firebase-bom:26.3.0')      //bill of material allows version control on every libraries include (the bottom two)
     implementation 'com.google.firebase:firebase-analytics'                 // to use analytics
     implementation 'com.google.firebase:firebase-auth'                      // to use google authenticator
     implementation 'com.google.firebase:firebase-firestore:22.0.0'

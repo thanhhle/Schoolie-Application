@@ -244,13 +244,4 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/backBtn" />
 
-    <TextView
-        android:id="@+id/textView30"
-        android:layout_width="62dp"
-        android:layout_height="21dp"
-        android:text="Sign Out"
-        android:textSize="12sp"
-        tools:layout_editor_absoluteX="341dp"
-        tools:layout_editor_absoluteY="75dp" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>

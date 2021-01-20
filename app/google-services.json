@@ -1,34 +1,33 @@
 {
   "project_info": {
-    "project_number": "400255550041",
-    "firebase_url": "https://schoolie-e2efa.firebaseio.com",
-    "project_id": "schoolie-e2efa",
-    "storage_bucket": "schoolie-e2efa.appspot.com"
+    "project_number": "740329608851",
+    "project_id": "thanhle-schoolie",
+    "storage_bucket": "thanhle-schoolie.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:400255550041:android:150e3d004c398a2f94a748",
+        "mobilesdk_app_id": "1:740329608851:android:005f4cf5660745e4315f66",
         "android_client_info": {
-          "package_name": "com.school.schoolie"
+          "package_name": "thanhle.schoolie"
         }
       },
       "oauth_client": [
         {
-          "client_id": "400255550041-u9hj26egk9h3pvear0hn6akfgvo9lin1.apps.googleusercontent.com",
+          "client_id": "740329608851-vtre7r3l5gihdd0e69erobaf73cp56nm.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCBtPVbNTg-Tosfj7fuvAL0f24UGbJEaK4"
+          "current_key": "AIzaSyAgCBoix7Te83-h4QMSSekRIlvDxypL0bw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "400255550041-u9hj26egk9h3pvear0hn6akfgvo9lin1.apps.googleusercontent.com",
+              "client_id": "740329608851-vtre7r3l5gihdd0e69erobaf73cp56nm.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
